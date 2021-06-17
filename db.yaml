@@ -1,4 +1,4 @@
-mysql_host: 'localhost'
-mysql_user: 'root'
-mysql_password: ''
-mysql_db: 'retinopathy'
+mysql_host: 'us-cdbr-east-04.cleardb.com'
+mysql_user: 'b9a925447c014b'
+mysql_password: '46b5414b'
+mysql_db: 'heroku_b3d2fd4d9c56fb1'
